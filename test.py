@@ -20,6 +20,3 @@ def generate_description():
     result = product_description[0]['text']
 
     return jsonify({'result': result})
-
-if __name__ == '__main__':
-    app.run()
