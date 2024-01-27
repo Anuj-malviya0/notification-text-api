@@ -1,3 +1,2 @@
 Flask==3.0.1
-textcortex==1.0.0
-
+textcortex==2.0.3
