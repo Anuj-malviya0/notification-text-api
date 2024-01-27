@@ -1,2 +1,3 @@
-Flask==3.0.1
-textcortex==2.0.3
+https://github.com/Anuj-malviya0/notification-text-api/blob/master/requirements.txtFlask==2.1.1
+textcortex==1.0.0
+gunicorn==20.1.0
