@@ -1,9 +1,10 @@
 from flask import Flask, request, jsonify
 from textcortex import TextCortex
+from flask_cors import CORS
 import random
 
 app = Flask(__name__)
-
+CORS(apa)
 # Create the hemingwai object and enter your API Key
 hemingwai = TextCortex(api_key="gAAAAABls7qEekUMnPrxByde9262FiqV42PrOvYy4fx0NKTR1dU14zQKwKYlydo9M7rTN3ILh1GUdRserD7Mh1yV5Nsl7GQpQolB8LhnivDJy9vPQZD7ejY12nVHADQlBTqUwb_yYnle")
 
